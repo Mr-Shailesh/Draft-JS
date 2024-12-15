@@ -25,22 +25,30 @@ You can install the dependencies of the project using either `npm` or `yarn`.
 
 ### Install dependencies :
 
-# with npm
+1. Using npm:
 
-npm install
+```bash
+ npm install
+```
 
-# with yarn
+2. Using yarn:
 
-yarn
+```bash
+ yarn
+```
 
 ### Run the project :
 
-# with npm
+1. Using npm:
 
-npm run dev
+```bash
+ npm run dev
+```
 
-# with yarn
+2. Using yarn:
 
-yarn dev
+```bash
+ yarn dev
+```
 
-# Once the server is running, you can access the project in your browser at http://localhost:5173.
+Once the server is running, you can access the project in your browser at `http://localhost:5173`.
