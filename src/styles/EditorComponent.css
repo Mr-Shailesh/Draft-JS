@@ -1,0 +1,21 @@
+.editor-wrap{
+    margin: 20px
+}
+
+.editor-header{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px
+}
+
+.rich-editor{
+    border:1px solid #ccc;
+    padding: 10px;
+    min-height: 200px;
+    cursor: text;
+}
+
+.header-button{
+  display: flex;
+  gap: 10px
+}
